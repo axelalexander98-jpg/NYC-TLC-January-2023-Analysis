@@ -238,3 +238,5 @@ Analisis menunjukkan pola pemesanan berdasarkan jam dalam sehari:
 ## Kesimpulan
 
 Analisis menunjukkan pola pemesanan taxi yang jelas dengan peak hours pada siang-sore (10:00-18:00) dan peak days pada hari kerja. VeriFone memiliki dominasi pasar yang signifikan dengan kepuasan pelanggan lebih tinggi. Rekomendasi fokus pada optimasi pengerahan armada berdasarkan peak times dan zones, serta strategi kompetitif untuk Creative Mobile melalui peningkatan kualitas layanan dan targeting zona strategis.
+
+link tableau: https://public.tableau.com/app/profile/axel.alexander2273/viz/NYCTLCCapstone2_17606226397600/Dashboard1
